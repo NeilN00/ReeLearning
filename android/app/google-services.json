@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606735095393",
+    "project_id": "reelearning-33736",
+    "storage_bucket": "reelearning-33736.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606735095393:android:632d05f0a8cf43908d3c20",
+        "android_client_info": {
+          "package_name": "com.reelearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPj54jjZ5oVbCsimVHLpsJ8D1DSevYqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
